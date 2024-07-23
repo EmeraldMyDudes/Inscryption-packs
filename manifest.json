@@ -1,0 +1,11 @@
+{
+    "name": "Persona_Card_Pack",
+    "version_number": "1.0",
+    "website_url": "https://github.com/EmeraldMyDudes/Persona-inscry-tion-pack",
+    "description": "Awaken your other self! PERSONA!",
+    "dependencies": [
+        "BepInEx-BepInExPack_Inscryption-5.4.1902",
+        "API_dev-API-2.19.2",
+		"MADH95Mods-JSONCardLoader-2.5.4"
+    ]
+}
