@@ -1,0 +1,22 @@
+{
+  "name": "TakeMikazuchi",
+  "displayedName": "Take-Mikazuchi",
+  "description": "Disco ninja frog.",
+  "metaCategories": [
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 3,
+  "bonesCost": 1,
+  "specialAbilities": [],
+  "abilities": [
+    "DrawCopyOnDeath"
+	],
+   "evolveIntoName": "",
+  "flipPortraitForStrafe": true,
+  "onePerDeck": false,
+  ],
+  "texture": "Take-Mikaport"
+}

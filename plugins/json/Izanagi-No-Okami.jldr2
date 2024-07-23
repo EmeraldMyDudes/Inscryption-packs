@@ -1,0 +1,22 @@
+{
+  "name": "IzanagiNoOkami",
+  "displayedName": "Izanagi-No-Okami",
+  "description": "ahh, the god of creation.",
+  "metaCategories": [
+    "Rare
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 5,
+  "bloodCost": 3,
+  "specialAbilities": [],
+  "abilities": [
+    "AllStrike"
+  ],
+   "evolveIntoName": "",
+  "flipPortraitForStrafe": true,
+  "onePerDeck": false,
+  ],
+  "texture": "Iza-no-oakport.png"
+}

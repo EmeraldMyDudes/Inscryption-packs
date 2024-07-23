@@ -1,0 +1,23 @@
+{
+  "name": "SukunaHikona",
+  "displayedName": "Sukuna-Hikona",
+  "description": "The child-god." interesting...",
+  "metaCategories": [
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "specialAbilities": [],
+  "abilities": [
+    "Sniper",
+    "Deathtouch"
+  ],
+   "evolveIntoName": "",
+  "flipPortraitForStrafe": true,
+  "onePerDeck": false,
+  ],
+  "texture": "Suku-Hikoport"
+}

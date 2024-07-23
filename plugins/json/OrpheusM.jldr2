@@ -1,0 +1,32 @@
+{
+  "name": "Orpheus",
+  "displayedName": "Orpheus",
+  "description": "\"A skilled poet.\" shame he's here now...",
+  "metaCategories": [],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "hideAttackAndHealth": false,
+  "bloodCost": 0,
+  "bonesCost": 0,
+  "energyCost": 0,
+  "gemsCost": [],
+  "specialStatIcon": "",
+  "tribes": [],
+  "traits": [],
+  "specialAbilities": [
+    "Ouroboros"
+  ],
+  "abilities": [
+    "BuffNeighbours"
+  ],
+  "flipPortraitForStrafe": true,
+  "onePerDeck": false,
+  "appearanceBehaviour": [],
+  "decals": [],
+  "extensionProperties": {},
+  "texture": "orphMport.png",
+  "evolveTurns": 1,
+  "evolveIntoName": "Orpheus Telos"
+}

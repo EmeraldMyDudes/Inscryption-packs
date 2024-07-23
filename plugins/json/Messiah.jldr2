@@ -1,0 +1,31 @@
+{
+  "name": "Messiah",
+  "displayedName": "Messiah",
+  "description": "one known for death and rebirth...",
+  "metaCategories": [],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 5,
+  "hideAttackAndHealth": false,
+  "bloodCost": 2,
+  "bonesCost": 0,
+  "energyCost": 0,
+  "gemsCost": [],
+  "specialStatIcon": "",
+  "tribes": [],
+  "traits": [],
+  "specialAbilities": [
+    "Ouroboros"
+  ],
+  "abilities": [
+    "DrawCopyOnDeath"
+  ],
+  "flipPortraitForStrafe": true,
+  "onePerDeck": false,
+  "appearanceBehaviour": [],
+  "decals": [],
+  "extensionProperties": {},
+  "texture": "messport.png",
+  "evolveIntoName": ""
+}

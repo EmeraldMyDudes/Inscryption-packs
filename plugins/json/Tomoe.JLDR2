@@ -1,0 +1,22 @@
+{
+  "name": "Tomoe",
+  "displayedName": "Tomoe",
+  "description": "A female samurai. Those were rare.",
+  "metaCategories": [
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "specialAbilities": [],
+  "abilities": [
+    "DoubleStrike"
+	],
+   "evolveIntoName": "",
+  "flipPortraitForStrafe": true,
+  "onePerDeck": false,
+  ],
+  "texture": "Tomport"
+}

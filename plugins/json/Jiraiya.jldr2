@@ -1,0 +1,22 @@
+{
+  "name": "Jiraiya",
+  "displayedName": "Jiraiya",
+  "description": "Disco ninja frog.",
+  "metaCategories": [
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "bonesCost": 1,
+  "specialAbilities": [],
+  "abilities": [
+    "DrawCopyOnDeath"
+	],
+   "evolveIntoName": "",
+  "flipPortraitForStrafe": true,
+  "onePerDeck": false,
+  ],
+  "texture": "Jirport"
+}
